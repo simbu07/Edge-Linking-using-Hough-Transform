@@ -84,7 +84,8 @@ plt.show()
 ## Output
 
 ### Input image 
-![esrageziyor](https://user-images.githubusercontent.com/94525786/234017188-e506ae84-ffea-47a1-964b-b288d4b941c7.jpg,height=50%,width=50%)
+![Screenshot 2023-04-24 192953](https://user-images.githubusercontent.com/94525786/234019343-7ec27546-7643-49a1-bb16-89160378eb36.png)
+
 ### grayscale image
 ![Screenshot 2023-04-24 192152](https://user-images.githubusercontent.com/94525786/234018196-a86aa871-a894-4b3d-ad04-ad0a0da8328f.png)
 
