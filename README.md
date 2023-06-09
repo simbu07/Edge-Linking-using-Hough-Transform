@@ -1,11 +1,12 @@
-# Edge-Linking-using-Hough-Transform
-## Aim:
+## Ex-8  Edge-Linking-using-Hough-Transform
+**Date: 19/04/2023**
+### Aim:
 To write a Python program to detect the lines using Hough Transform.
 
-## Software Required:
+### Software Required:
 Anaconda - Python 3.7
 
-## Algorithm:
+### Algorithm:
 ### Step 1:
 Import all the necessary packages required for the program.
 
@@ -25,7 +26,7 @@ Using the HoughLinesP(), detect the line co-ordinates for every points in the im
 Display the image found by the HoughLinesP() and end the program.
 
 
-## Program:
+### Program:
 ```
 Name : Silambarasan K
 Reg No : 212221230101
@@ -81,7 +82,7 @@ plt.axis('off')
 plt.show()
 
 ```
-## Output
+### Output
 
 ### Input image 
 ![Screenshot 2023-04-24 192953](https://user-images.githubusercontent.com/94525786/234019343-7ec27546-7643-49a1-bb16-89160378eb36.png)
@@ -97,5 +98,5 @@ plt.show()
 
 ![Screenshot 2023-04-24 192211](https://user-images.githubusercontent.com/94525786/234018233-06db5df8-152a-4a63-bcb6-bf8f34013051.png)
 
-## Result:
+### Result:
 Thus the program is written with python and OpenCV to detect lines using Hough transform. 
